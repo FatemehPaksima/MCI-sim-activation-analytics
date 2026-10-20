@@ -81,7 +81,7 @@ The workflow is configured for daily execution through Windows Task Scheduler. F
 
 ## Power BI Dashboard
 
-![MCI SIM Activation Dashboard](Documentation/dashboard.png)
+![MCI SIM Activation Dashboard](Documentation/Dashboard.png)
 The dashboard provides interactive analysis through date, channel, and region filters. Its documented components include:
 
 - **Peak Daily Activations** — highest daily activation count in the current filter context.
