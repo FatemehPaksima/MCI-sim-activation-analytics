@@ -1,0 +1,26 @@
+# SQL Server database files
+*.mdf
+*.ldf
+*.bak
+*.trn
+
+# Raw and processed data
+*.csv
+*.xlsx
+*.xls
+
+# ETL logs
+Data/Logs/
+*.log
+
+# Temporary and local configuration
+*.tmp
+*.temp
+.env
+.env.*
+*.local
+
+# Windows and editor files
+Thumbs.db
+.DS_Store
+.vs/
